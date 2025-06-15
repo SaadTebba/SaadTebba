@@ -1,8 +1,11 @@
 # 💫 About Me:
 
 👨‍💻 Full Stack Web Developer
+
 🎨 Passionate Designer for fun
+
 🛒 Ecom Media Buyer
+
 🥋 Taekwondo athlete
 
 
